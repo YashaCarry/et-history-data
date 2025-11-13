@@ -11,12 +11,32 @@ cas_fernan_gonzalez_beni_mamaduna:
     tag: CAS
   970.1.1:
     death: yes
+nav_sancha_sanchez_of_pamplona_jimenez:
+915.1.1: # complete guess.
+  901.1.1:
+    birth: burgos # born near Burgos
+    first_name: sancha_sanchez
+    dynasty: jimenez_dynasty
+    adm: 50 # TODO: assign proper values
+    dip: 50 # TODO: assign proper values
+    mil: 50 # TODO: assign proper values
+    religion: catholic
+    culture: aragonese # TODO: add navarran
+    tag: NAV
+  960.1.1:
+    death: yes
+  923.1.1:
+    spouse: lon_ordono_ii_de_beni_alfons
+    tag: LON
+  932.6.1: # guess as dates say both 932 and 933.
+    spouse: cas_fernan_gonzalez_beni_mamaduna
+    tag: CAS
 cas_garcia_fernandez_beni_mamaduna:
   938.1.1:
-    birth: toledo #TODO: Date and location guessed, check if better data is available
+    birth: burgos
     first_name: garcia_fernandez
     dynasty: beni_mamaduna_dynasty
-    father: cas_fernan_gonzalez_beni_mamaduna #TODO: check if this makes sense
+    father: cas_fernan_gonzalez_beni_mamaduna
     adm: 15
     dip: 75
     mil: 60
